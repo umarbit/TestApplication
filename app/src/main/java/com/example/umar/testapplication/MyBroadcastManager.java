@@ -11,6 +11,6 @@ import android.content.Intent;
 public class MyBroadcastManager extends BroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {
-        
+
     }
 }
